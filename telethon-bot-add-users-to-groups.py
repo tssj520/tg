@@ -12,7 +12,7 @@ import re
 
 
 api_id = 1306405       # YOUR API_ID
-api_hash = 'hash:71c73e4ef20cb007bca7c78aa5718c77'        # YOUR API_HASH
+api_hash = '71c73e4ef20cb007bca7c78aa5718c77'        # YOUR API_HASH
 phone = '+15203146106'        # YOUR PHONE NUMBER, INCLUDING COUNTRY CODE
 client = TelegramClient(phone, api_id, api_hash)
 
